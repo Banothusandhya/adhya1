@@ -1,0 +1,32 @@
+body{
+    background-image: url(cup.png);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+form{
+    border: solid;
+    width: 300px;
+    margin-left: 480px;
+    margin-top: 30px;
+    background-color: black;
+}
+h1{
+    color:aqua;
+    text-align: center;
+}
+label{
+    color:pink;
+    font-size: 30px;
+    font-weight: bold;
+}
+input{
+    height: 70px;
+    width: 100px;
+    button{
+        height:40px;
+        width: 120px;
+        background-color:beige;
+        border-radius: 20px;
+        color: red;
+    }
+}

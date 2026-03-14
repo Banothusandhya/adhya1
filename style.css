@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-image: url(cake.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+#text1{
+    color:white;
+    font-size: 70px;
+    margin-top: 200px;
+    margin-left: 80px;
+}
+#text2{
+    color:aqua;
+    font-size: 90px;
+    margin-left: 70px
+}
+button{
+    height: 60px;
+    width: 190px;
+    background-color:white;
+    border-radius:30px;
+}
+button a{
+    color:black;
+    font-size: 25px;
+    text-decoration:none;
+    font-weight: bold;
+}
+button:hover{
+    background-color:blueviolet;
+}
